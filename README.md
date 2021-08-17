@@ -8,7 +8,7 @@ It is  just a simulation, this code allows only to use a servo motor, an RFID re
 To send the email, the email sender must set up their Google account or more to allow access to less secure applications.
 I recommend creating an email for this project only.
 
-It's simple, but it can be useful for beginners like me.
+It's simple, but it can be useful for beginners, like me.
 
 More details on the slides.
 
@@ -24,7 +24,7 @@ Este código apenas ensina a usar um servo motor, um leitor RFID RC522 e tags RF
 Para mandar o e-mail, o e-mail remetente deve configurar sua conta do Google ou demais, para permitir o acesso de aplicativos menos seguros. 
 Indico criar um e-mail apenas para este projeto.
 
-Upei na esperança de ajudar alguém algum dia, é simples, porém pode ser util pra iniciantes como.
+Upei na esperança de ajudar alguém algum dia, é simples, porém pode ser util pra iniciantes, assim como eu.
 
 Mais detalhes nos slides.
 

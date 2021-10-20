@@ -222,7 +222,7 @@ void loop()
        cancelaSobe();
        valor=valor2;
     email="email";
-    nome= " Lucas";
+    nome= " Marco";
     enviaEmail(email,nome);
      cancelaDesce();
       valor2=0;
